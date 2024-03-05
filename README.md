@@ -1,3 +1,3 @@
-# project-amazonclone
-Made by Roushan kumar mandal
+# project-amazonclone<br>
+Made by Roushan kumar mandal<br>
 project name amazon clone
